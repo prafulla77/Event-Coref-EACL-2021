@@ -1,6 +1,6 @@
 # Automatic Data Acquistion for Event Coreference Resolution
 
-This repository contains the data and code for the EACL 2020 paper: [Automatic Data Acquistion for Event Coreference Resolution](http://faculty.cse.tamu.edu/huangrh/).
+This repository contains the data and code for the EACL 2021 paper: [Automatic Data Acquistion for Event Coreference Resolution](http://faculty.cse.tamu.edu/huangrh/).
 If you use the dataset or model in your work, please cite the following.
 
 ```
