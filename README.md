@@ -8,7 +8,7 @@ If you use the dataset or model in your work, please cite the following.
     title = "Automatic Data Acquistion for Event Coreference Resolution",
     author = "Choubey, Prafulla Kumar  and
       Huang, Ruihong",
-    booktitle = "Proceedings of the 16th Conference of the {E}uropean Chapter of the Association for Computational Linguistics: Volume 1, Long Papers",
+    booktitle = "Proceedings of the 16th Conference of the {E}uropean Chapter of the Association for Computational Linguistics",
     month = apr,
     year = "2021",
     publisher = "Association for Computational Linguistics",
