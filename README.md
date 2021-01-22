@@ -1,6 +1,9 @@
 # Automatic Data Acquistion for Event Coreference Resolution
 
 This repository contains the data and code for the EACL 2021 paper: [Automatic Data Acquistion for Event Coreference Resolution](http://faculty.cse.tamu.edu/huangrh/).
+
+Download [Automatically Acquired Datasets and the Masked_Trained KBP 2015+Phase 1 and 2 dataset model] (https://drive.google.com/drive/folders/1NNBKiO4eYkGBjkdXGUieKg2fCWfbUBuf?usp=sharing)
+
 If you use the dataset or model in your work, please cite the following.
 
 ```
